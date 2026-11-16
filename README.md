@@ -1,6 +1,8 @@
 
 # PRINTELLA
 ### Building a Consumer Brand from Zero
+<img align="centre" width="280" src="IMG_2039.jpg" alt="Printella candle display">
+
 
 Printella is a D2C scented candle and lifestyle brand I founded and developed from the ground up.
 
@@ -25,6 +27,7 @@ I was involved across the business, taking ownership of:
 
 - Founded and developed a D2C consumer brand.
 - Sold 1,000+ products.
+- <img align="right" width="280" src="IMG_2171.jpg" alt="Printella candle display">
 - Secured corporate sponsorships from Starbucks and Domino's for college events.
 - Built and managed the brand's online presence.
 - Managed product development, sourcing, operations and marketing.
@@ -52,7 +55,7 @@ This repository will progressively document:
 5. Marketing and customer acquisition.
 6. Corporate partnerships and business development.
 7. Challenges, experiments and lessons learned.
-
+<img align="right" width="250" src="IMG_2041.jpg" alt="Printella candle display">
 ## Connect
 
 - Instagram: https://www.instagram.com/printella.art/
