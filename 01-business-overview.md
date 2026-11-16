@@ -9,6 +9,8 @@ The business was built around creating aromatic candles, wax melts and curated g
 
 I founded Printella and took responsibility for developing and operating the business across its major functions.
 
+<img align="right" width="280" src="IMG_9274.JPG" alt="Printella candle display">
+
 ## The Business
 
 **Business:** Printella  
@@ -38,11 +40,13 @@ I worked across the complete business lifecycle:
 - Secured corporate sponsorships from Starbucks and Domino's for college events.
 - Developed an online storefront and social media presence.
 - Managed product development, sourcing, marketing and fulfilment.
+ <img align="right" width="200" src="IMG_2898.JPG" alt="Printella candle display">
 
 ## Business Links
 
 - Website: https://printella-candles.myshopify.com/
 - Instagram: https://www.instagram.com/printella.art/
+
 
 ## My Role
 
