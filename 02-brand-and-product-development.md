@@ -14,6 +14,7 @@ The product range included:
 - **Jar Candles:** Traditional container-based scented candles.
 - **Mould Candles:** Candles created using different moulds and shapes.
 - **Decorative Candles:** Design-focused candles intended to add aesthetic value.
+- <img align="right" width="280" src="IMG_9407.jpg" alt="Printella candle display">
 - **Secret Message Candles:** Candles incorporating a hidden-message concept.
 - **Dessert Candles:** Dessert-inspired decorative candle designs.
 - **Diya Candles:** Candle products inspired by traditional Indian diyas.
@@ -38,6 +39,7 @@ I personally experimented with:
 
 These experiments helped me understand the practical relationship between raw materials, formulation, product performance and the final customer experience.
 
+<img align="centre" width="280" src="IMG_3229.jpg" alt="Printella candle display">
 ## End-to-End Manufacturing
 
 Printella followed a hands-on manufacturing model.
@@ -102,7 +104,7 @@ My responsibilities included:
 I used AI as a creative and execution aid while retaining ownership of the brand's creative decisions.
 
 ## 4. Product Development
-
+<img align="right" width="280" src="IMG_9407.jpg" alt="Printella candle display">
 I developed a diverse product range rather than limiting the business to conventional jar candles.
 
 The range included:
