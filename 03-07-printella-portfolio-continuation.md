@@ -6,6 +6,8 @@ This document continues the existing Printella portfolio after `01-business-over
 
 ### Running production
 
+<img align="right" width="280" src="IMG_9263.JPG" alt="Printella candle display">
+
 Printella used a hands-on production model. I personally made the candles, taking them from material and fragrance experimentation through production and preparation for fulfilment.
 
 My operating responsibilities included sourcing raw materials, coordinating with suppliers, managing inventory, producing the products, preparing orders and arranging fulfilment. This gave me direct involvement in the practical work behind a consumer-products business, from material decisions to the finished customer order.
@@ -49,6 +51,8 @@ The portfolio records sales of **more than 1,000 products**. The available infor
 I secured corporate sponsorships from **Starbucks** and **Domino's** for college events. This experience added business-development work to my responsibilities as a founder and gave me exposure to arranging commercial support around event opportunities.
 
 The current record does not include sponsorship values, event names, agreement terms or outcome metrics, so I have not added details beyond the confirmed sponsorships.
+
+<img align="right" width="280" src="IMG_3065.jpg" alt="Printella candle display">
 
 ## 07 — Challenges, Experiments & Lessons
 
